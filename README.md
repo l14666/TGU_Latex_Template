@@ -26,15 +26,15 @@
 
 ### 封面
 
-![封面效果图](figures/封面.png)
+<img src="figures/封面.png" width="400" alt="封面效果图">
 
 ### 目录
 
-![目录效果图](figures/目录.png)
+<img src="figures/目录.png" width="400" alt="目录效果图">
 
 ### 参考文献
 
-![参考文献效果图](figures/参考文献.png)
+<img src="figures/参考文献.png" width="400" alt="参考文献效果图">
 
 ## 使用方法
 
