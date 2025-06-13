@@ -20,6 +20,21 @@
 - `reference.bib` - 参考文献 BibTeX 文件
 - `figures/` - 图片目录
   - `tgu_logo.png` - 天津工业大学校徽
+  - 其他示例效果图
+
+## 效果展示
+
+### 封面
+
+![封面效果图](figures/封面.png)
+
+### 目录
+
+![目录效果图](figures/目录.png)
+
+### 参考文献
+
+![参考文献效果图](figures/参考文献.png)
 
 ## 使用方法
 
