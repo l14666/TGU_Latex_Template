@@ -116,11 +116,6 @@ xelatex main.tex
 ```latex
 \autoref{标签名}
 ```
-
-## 许可证
-
-此模板由 Li Jianfei 创建，遵循 MIT 许可证开源。
-
 ## 致谢
 
 本模板基于 [jweihe](https://github.com/jweihe) 的 [UCAS_Latex_Template](https://github.com/jweihe/UCAS_Latex_Template.git) 进行改进，特此感谢原作者的工作。
