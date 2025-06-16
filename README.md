@@ -48,7 +48,7 @@
 
 ```bash
 xelatex main.tex
-bibtex main
+bibtex main.tex
 xelatex main.tex
 xelatex main.tex
 ```
@@ -116,7 +116,7 @@ xelatex main.tex
 ```latex
 \autoref{标签名}
 ```
+
 ## 致谢
 
 本模板基于 [jweihe](https://github.com/jweihe) 的 [UCAS_Latex_Template](https://github.com/jweihe/UCAS_Latex_Template.git) 进行改进，特此感谢原作者的工作。
-
